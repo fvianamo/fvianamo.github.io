@@ -57,6 +57,6 @@ link::https://br.linkedin.com/in/filipe-viana-monteiro-b11a8439[Filipe Viana Mon
 * CNH Categoria A, Definitiva
 
 [TIP]
-Faça o download do meu currículo link::./docs/Curriculo.pdf[aqui].
+Faça o download do meu currículo link:./docs/Curriculo.pdf[aqui].
 
 image::./images/english.png[width = "50", height = "50", link = "indexEnglish.html", align = "center"]

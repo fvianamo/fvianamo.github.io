@@ -50,6 +50,6 @@ link::https://br.linkedin.com/in/filipe-viana-monteiro-b11a8439[Filipe Viana Mon
 * Knowledge in HTML, SQL, Python and LabVIEW
 
 [TIP]
-Download my resume link::./docs/FilipeMonteiroResume.pdf[here].
+Download my resume link:./docs/FilipeMonteiroResume.pdf[here].
 
 image::./images/portugues.png[width = "50", height = "50", link = "index.html", align = "center"]

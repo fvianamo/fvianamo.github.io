@@ -1,0 +1,62 @@
+= Filipe Viana Monteiro
+<filipevianam@gmail.com>
+:toc: left
+:toc-title: Sumário
+:icons: font
+
+image::./images/ProfilePicture.jpg[width = "100", height = "250", align = "center"]
+
+== Contato
+
+
+image:./images/facebook.jpg[width = "25", height = "25", link = "https://www.facebook.com/FilipeVianaMonteiro"]
+link::https://www.facebook.com/FilipeVianaMonteiro[/FilipeVianaMonteiro]
+
+
+image:./images/linkedin.png[width = "25", height = "25", link = "https://br.linkedin.com/in/filipe-viana-monteiro-b11a8439"]
+link::https://br.linkedin.com/in/filipe-viana-monteiro-b11a8439[Filipe Viana Monteiro]
+
+
+== Areas de Interesse
+
+* Automação Residencial e Industrial
+* Gestão de Projetos e Negócios
+* Empreendedorismo
+
+== Formação Acadêmica
+
+* Bacharel em Ciências e Tecnologias
+** Universidade Federal do Rio Grande do Norte - UFRN
+** Concluído em 2013
+
+* Graduando em Engenharia de Computação e Automação
+** Universidade Federal do Rio Grande do Norte - UFRN
+** Conclusão prevista para Dezembro de 2016
+
+== Experiência Profissional
+
+* Trojan Technologies (Maio/2015 - Agosto/2015)
+** Estagiário de Engenharia no Setor de P&D
+
+* Laboratório de Robótica UFRN (Janeiro/2014 - Agosto/2014)
+** Pesquisador Bolsista no projeto SpaceVANT
+
+== Experiências Internacionais
+
+* Western English Language Centre - WELC (Setembro/2014 - Dezembro/2014)
+** High Advanced English Level
+
+* The Western University of Ontario, Canadá (Janeiro/2015 - Dezembro/2015)
+** Estudante Visitante de Engenharia pelo programa Ciências sem Fronteiras
+
+== Outras Informações
+
+* Fluênte em Inglês
+* Pacote Office (Word, Excel, PowerPoint)
+* C/C++, Java, Arduino, LabVIEW
+* CNH Categoria A, Definitiva
+
+[TIP]
+Faça o download do meu currículo link::./docs/Curriculo.pdf[aqui].
+
+image::./images/english.png[width = "50", height = "50", link = "indexEnglish.html", align = "center"]
